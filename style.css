@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #222; /* Color fuera de la cancha */
+  overflow: hidden; /* Evita que aparezcan barras de desplazamiento */
+}
+
+canvas {
+  display: block; /* Elimina espacios extra debajo del canvas */
+  box-shadow: 0 0 20px rgba(0,0,0,0.5); /* Le da un toque profesional al juego */
+}
