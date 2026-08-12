@@ -27,7 +27,7 @@ CSS3
 Completar los gráficos y animaciones.
 Ajustar la interfaz.
 Incorporar efectos visuales y sonoros.
-Publicar una versión jugable online.
+
 📚 Filosofía
 
 Este proyecto fue construido priorizando primero la lógica del juego y luego la experiencia visual, siguiendo un proceso de desarrollo incremental.
